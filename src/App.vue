@@ -4,10 +4,12 @@
 import Description from "./components/Description.vue";
 import DomainName from "./components/DomainName.vue";
 import Architecture from "./components/Architecture.vue";
+import GithubLink from "./components/GithubLink.vue";
 </script>
 
 <template>
   <div class="px-40">
+    <GithubLink/>
     <Description class="py-10"/>
     <DomainName class="pb-10"/>
     <Architecture class="pb-10"/>
