@@ -1,4 +1,4 @@
-**# Custom Domain Setting Demo
+# Custom Domain Setting Demo
 > This project delivers a system which allows users to customize service domain.
 
 ### Why
