@@ -1,6 +1,6 @@
 <template>
   <article class="prose max-w-none">
-    <h1 id="custom-domain-setting-demo">Custom Domain Setting Demo</h1>
+    <h1 id="custom-domain-setting-demo">Custom Domain Setting</h1>
     <blockquote>
       <p>This project delivers a system which allows users to customize service domain.</p>
     </blockquote>
