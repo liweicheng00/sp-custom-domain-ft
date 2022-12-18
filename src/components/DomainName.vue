@@ -7,7 +7,7 @@
 
       <button @mouseenter="expandInput" class="px-1 bg-emerald-300 rounded">+Add Domain</button>
       <input type="text"
-             placeholder="<something>.sp1.liweicheng00.link"
+             placeholder="<any-word>.sp1.liweicheng00.link"
              v-model.trim="domainName"
              :class="`mx-3 px-2 rounded ${trans} transition-all ease-in-out  border  duration-1000`"/>
       <button @click="addDomain" class="px-1 bg-sky-300 rounded flex items-center">
